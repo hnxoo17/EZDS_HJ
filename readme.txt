@@ -1,0 +1,1 @@
+pyinstaller --onefile --noconsole --hidden-import pandas '.\BSAD_EDIT.py'
